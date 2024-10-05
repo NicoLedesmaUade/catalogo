@@ -36,3 +36,34 @@ button:hover {
     background-color: #27ae60; /* Verde un poco más oscuro al hacer hover */
 }
 
+.circle {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: 10px;
+}
+.black-circle {
+    background-color: black;
+}
+.brown-circle {
+    background-color: brown;
+}
+.pink-circle{
+    background-color: rgb(250, 115, 207);
+}
+.white-circle{
+    background-color: white;
+    border: 1px solid;
+}
+.violet-circle{
+    background-color: rgb(194, 88, 247);
+}
+.pruebaa .arrow{
+    margin-right: 5px;
+   
+}
+a {
+    text-decoration: none;
+    color: white;
+}
